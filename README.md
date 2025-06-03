@@ -26,11 +26,4 @@ The chatbot uses a predefined knowledge base stored in a Python dictionary (`eve
 - **What types of events can you plan?**: We plan weddings, corporate events, birthdays, conferences, and community gatherings, customized to your needs.
 - **Can you find vendors for my event?**: We recommend reliable vendors like caterers, photographers, and venues based on your budget and location.
 
-See `event_chatbot_services.py` for the full knowledge base.
 
-## Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/event-management-chatbot.git
-   cd event-management-chatbot
